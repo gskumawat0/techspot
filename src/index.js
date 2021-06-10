@@ -1,20 +1,14 @@
+import "bootstrap/dist/css/bootstrap.min.css";
+import "bootstrap/dist/js/bootstrap.bundle";
 import React from "react";
 import ReactDOM from "react-dom";
 import "./index.css";
 import { BrowserRouter } from "react-router-dom";
 import App1 from "./App1";
 
-
 ReactDOM.render(
-    <>
-    <BrowserRouter>
-        <App1 />
-        </BrowserRouter>
-    </>,
-    document.getElementById('root')
-    );
-
-
-  
-/* Redirect method  use to replace the error page
- */
+	<BrowserRouter>
+		<App1 />
+	</BrowserRouter>,
+	document.getElementById("root")
+);
