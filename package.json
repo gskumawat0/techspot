@@ -1,6 +1,5 @@
 {
 	"name": "techspot",
-	"homepage": "https://gskumawat0.github.io/techspot",
 	"version": "0.1.0",
 	"private": true,
 	"dependencies": {
