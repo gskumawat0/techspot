@@ -17,7 +17,7 @@ const Navbar = () => {
 								<NavLink className="navbar-brand" to="/">
 									{" "}
 									<span id="logo">
-										<img src={logo} />
+										<img src={logo} alt="techSpot" />
 									</span>
 									Tech Spot
 								</NavLink>
