@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/techspot/static/css/main.9b86f2e9.chunk.css",
+    "main.js": "/techspot/static/js/main.231a292e.chunk.js",
+    "main.js.map": "/techspot/static/js/main.231a292e.chunk.js.map",
+    "runtime-main.js": "/techspot/static/js/runtime-main.84f46a49.js",
+    "runtime-main.js.map": "/techspot/static/js/runtime-main.84f46a49.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/techspot/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.0b5b24c2.chunk.js": "/techspot/static/js/2.0b5b24c2.chunk.js",
+    "static/js/2.0b5b24c2.chunk.js.map": "/techspot/static/js/2.0b5b24c2.chunk.js.map",
+    "index.html": "/techspot/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/techspot/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.9b86f2e9.chunk.css.map": "/techspot/static/css/main.9b86f2e9.chunk.css.map",
+    "static/js/2.0b5b24c2.chunk.js.LICENSE.txt": "/techspot/static/js/2.0b5b24c2.chunk.js.LICENSE.txt",
+    "static/media/img1.a1c7490d.jpg": "/techspot/static/media/img1.a1c7490d.jpg",
+    "static/media/img31.026ca8f9.jpg": "/techspot/static/media/img31.026ca8f9.jpg",
+    "static/media/pic1.svg.57d2d199.webp": "/techspot/static/media/pic1.svg.57d2d199.webp",
+    "static/media/pic2.cab0e188.gif": "/techspot/static/media/pic2.cab0e188.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.84f46a49.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.0b5b24c2.chunk.js",
+    "static/css/main.9b86f2e9.chunk.css",
+    "static/js/main.231a292e.chunk.js"
+  ]
+}
